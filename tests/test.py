@@ -1,5 +1,5 @@
 import pytest
-from Лаба1 import find_roots
+from src.Лаба1 import find_roots
 
 
 def test_two_real_roots():
